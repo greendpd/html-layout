@@ -1,0 +1,33 @@
+.top-of-page {
+  height: 150px;
+  background-color: #444444;
+}
+
+.panel{
+  float: left;
+  height: 750px;
+}
+
+.side-panel{
+  width: 20%;
+  background-color: #D8D8D8;
+}
+
+.center-container{
+  width:60%;
+}
+
+.center-panel-main{
+  background-color: #efefef;
+  height: 650px;
+}
+
+.center-panel-bottom{
+  height: 100px;
+  background-color: #000000;
+}
+
+
+body {
+  margin: 0px;
+}

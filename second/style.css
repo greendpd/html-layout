@@ -1,0 +1,39 @@
+.panel{
+  width: 33%;
+  float:left;
+}
+
+.full-panel{
+  height:900px;
+}
+
+.small-panel{
+  height: 700px;
+}
+
+.panel1{
+  background-color: #4A90E2;
+
+}
+
+.panel2{
+  background-color: #50E3C2
+}
+
+.panel3{
+  background-color: #B8E986
+}
+
+.image-placeholder{
+  height: 200px;
+  background-color: #D0021B;
+  text-align: center;
+  font-size: 25px;
+  font-family: sans-serif;
+  color: white;
+  padding-top: :50%;
+}
+
+body {
+  margin: 0px;
+}
